@@ -1,6 +1,8 @@
-function App() {
+import React from "react";
+import Header from "./components/Header";
 
-  return <h1>Olá, Mundo!</h1>;
-}
+const App = () => {
+  return <Header />;
+};
 
 export default App;
