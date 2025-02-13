@@ -34,3 +34,9 @@ export default App2;
 
 // Nomeação de classes em CSS
 // Metodologia BEM (Blocks Elements Modifiers)
+// bloco__elemento--modificador
+// header
+// header__link
+// header__link--small
+
+// TAG vazia em React se chama Fragment ou Fragmento
